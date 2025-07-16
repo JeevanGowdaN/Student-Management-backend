@@ -1,0 +1,4 @@
+com\jeevan\studentmanager\StudentmanagerApplication.class
+com\jeevan\studentmanager\repository\StudentRepository.class
+com\jeevan\studentmanager\controller\StudentController.class
+com\jeevan\studentmanager\model\Student.class
